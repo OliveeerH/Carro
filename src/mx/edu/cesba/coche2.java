@@ -4,7 +4,7 @@ public class coche2 {
 
     public static void main(String[] args) //psvm+tab
     {
-        
+        System.out.println("holaaaaaa");
         cochemain coche1 = new cochemain();
         
         
